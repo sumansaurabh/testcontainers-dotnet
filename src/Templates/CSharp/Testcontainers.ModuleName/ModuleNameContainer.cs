@@ -13,5 +13,6 @@ public sealed class ModuleNameContainer : DockerContainer
         : base(configuration, logger)
     {
     //some code
+    // some additional code
     }
 }
