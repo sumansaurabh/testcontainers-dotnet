@@ -12,5 +12,6 @@ public sealed class ModuleNameContainer : DockerContainer
     public ModuleNameContainer(ModuleNameConfiguration configuration, ILogger logger)
         : base(configuration, logger)
     {
+    //some code
     }
 }
